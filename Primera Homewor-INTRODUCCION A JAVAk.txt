@@ -1,0 +1,13 @@
+Variables: Las variables son espacios que se guardan en la memoria de nuestro codigo, es decir si deseas guardar un nombre de una persona lo puedes introducir a una variable y esta se quedara guardad y la puedes utilizar cuando desees
+Se pueden guardar variables utilizando diferentes abreviaturas como: (var, let, o const).
+
+Strings: Los strings son un tipo de dato el cual sirve para guardar cadenas de texto o palabras o letras, es decir si deseas guardar una frase o un parrafo a una variable, esta variable se considedara string y solo tendra cadena de texto.
+
+Funciones: Las funciones son una de las partes mas importante de la programacion, con las funciones tu puedes definir acciones que quieres que se realicen, es decir si quieres que se ejecute una suma dependiendo de los numeros, se puede realizar una funcion.
+A estas funciones tambien le puedes agregar argumentos los cuales ayudaran a definir mas las acciones que quieres, por ejemplo si quieres hacer una funcion suma, puede agragar dos argumentos que se utilizaran como variables para guardar los numeros de la suma.
+Tambien se puede utilizar el return que sirve para devolver la operacion que realizaste.
+
+Declaracion if: El if es conocido por muchos como una condicional y esta nos permite realizar como el mismo nombre lo dice una condicion, por ejemplo si deseas que salga un mensaje de acuerda a un numero puedes poner un if, si sale el numero que deseas aparecera el mensaje,
+si se escribe otro numero distinto no saldra el mensaje y no se ejecutara nada mas.
+
+Valores booleanos: En javascript se utiliza los valores booleanos  solo para identificar dos respuestas las cuales son true o false, en estas variables solo se pueden guardar estos dos valores.
