@@ -1,0 +1,11 @@
+for: el bucle for nos sirve para crear ciclos que pueden ser infinitos o no. Es decir este bucle se puede utilizar para ejecutar un codigo las veces que queramos, primero debemos declarar una variable donde se guardara el indice del ciclo.
+luego debemos escribir una condicional para que este ciclo pueda repetirse hasta que este sea falso. y luego debemos aclararle al codigo de que el valor va incrementando cada vez que se ejecute el true.
+Es decir si la condicional que escribiste es verdadera ser realizara el codigo y va incrementando, si vuelve hacer verdadero se vuelve a ejecutar, y asi hasta que la condicional sea false.
+
+&&: Estos simbolos son operadores logicos en este caso este servira como si utilizamos "Y" o un "AND" esto quiere decir que las operaciones tienen que ser verdaderas las dos para que se pueda ejecutar el codigo
+esto nos ayuda para expresar una expresion Y otro donde ambas tienen que ser true para ejecutarse.
+
+||: En este caso este simbolo nos sirve para identificar una expresion O la otra expresion. Este operador logico servira como si estuvieramos hablado de "O", es decir para ejecutar un codigo en una condicion
+tiene que haber una expresion que sea true, si hay una expresion verdadera se ejecutara el codigo. Si las dos son false no se ejecutara nada.
+
+!: Este operador logico quiere expresar como si fuera un NOT, es decir la operacion que tenga el (!) quiere decir que esta operacion sera desigual. 
