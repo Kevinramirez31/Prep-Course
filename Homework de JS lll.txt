@@ -1,0 +1,5 @@
+Array: Un array o arreglo nos sirve para crear listas, o conjuntos de diferentes variables, cabe resaltar que en los arrays se pueden agregar cualquier tipo de datos, es decir a los arreglos podemos introducir cadenas de texto, numeros, booleanos, funciones,etc.
+Cada uno de ellos ubicado con referencia a la posición que ocupa dentro del mismo. 
+En los array podemos consultar las posiciones de cada variable y cabe resaltar que las posiciones del array se empieza a contar a partir de 0.
+Tambien podemos añadir más variables despues de definir el array y hay diferentes metodos para hacerlo uno de ellos es el push, que nos sirve para ingresar un dato y este se pondra de ultimo.
+O para desechar una variable que ya no necesitas simplemente puedes pone la funcion pop, y este eliminara la ultima variable
