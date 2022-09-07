@@ -1,0 +1,18 @@
+Objetos: Un objeto es una colección de datos relacionados y/o funcionalidad (que generalmente consta de algunas variables y funciones, que se denominan propiedades y métodos cuando están dentro de objetos).
+En estos objetos lo mas importante es que cada variable se identifica como key-valor o propiedad y valor, esto quiere decir que siempre que se vayan a guardar variables debe haber una propiedad con su respectivo valor, ejemplo: Nombre: Pedro.
+Su funcionamiento es muy parecido al arreglo y su diferencia es que no se manejan con indices y numeros, se maneja con el nombre de las propiedades.
+
+Propiedades: Una propiedad es una asociación entre un nombre (o clave) y un valor, las propiedades de un objeto son simplemente como una variable comun y corriente con la diferencia de que debe tener un valor y debe estar dentro del objeto.
+Una propiedad casi siempre define caracteristicas del objeto.
+
+Metodos: Los metodos en los objetos son definidos como las funciones, se pueden utilizar diferentes metodos que ya conocemos con .lenght, .push, .pop, etc.
+podemos llamar a un método con argumentos como lo haríamos con una función normal.
+
+Bucle for... in: En los objetos el bucle for no se puede utilizar, ya que los objetos no tienen indice con numeros, sin embargo en javascript existe otro bucle llamado: for...in loop.
+Es un poco parecida al bucle for, la diferencia es que aqui comienza declarando una variable, luego va la palabra clave in y el nombre del objeto.
+Esto recorrerá cada propiedad del objeto y finalizará cuando se hayan observado todas las propiedades.
+
+Notación de puntos vs notación de corchetes: Con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la propiedad. La propiedad de longitud es un par de clave-valor.
+La notación de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número. Se puede llamar a cada clave envolviéndola con comillas.
+La diferencia es que con la notacion de puntos podemos acceder al objeto o a la propiedad mucha mas rapido que con la notacion de corchetes.
+
