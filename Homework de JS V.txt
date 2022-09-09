@@ -1,0 +1,6 @@
+Prototype: Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí. Es decir cada vez que se crea un objeto siempre se crea tambien otra parte que no vemos que es el prototipo,
+en este se guardan mas que todo los metodos de los objetos. para añadir un metodo al prototipo es muy sencillo, solo debes escribir el nombre del constructor, despues sigue el .prototype, despues el nombre del metodo y declararlo como fuction y 
+ahora si la funcion que deseas guardar. Y asi igual si deseas guardar una propiedad.
+
+Constructors (de Clases): El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase. Es decir cuando se crean las clases se debe crear tambien un constructor, este lo que hace es crear nuevos objetos con los parametros que le indique
+y puedes inicializar estos objetos.
