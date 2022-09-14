@@ -1,0 +1,2 @@
+Funciones Callback: Una función callback es aquella que es pasada como argumento a otra función para que sea llamada de nuevo en un momento posterior
+Es importante tener en cuenta que cuando pasamos un callback solo pasamos la definición de la función y no la ejecutamos en el parámetro. Así, la función contenedora elige cuándo ejecutar el callback.
